@@ -7,7 +7,9 @@ Used built-in functions in order to solve this algorithm.
 -join() method joins all of the arrays into a string
 */
 
+
 // My solution 
+
 function reverseString(str) {
   return str.split([]).reverse().join([]);
 }
