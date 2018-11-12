@@ -1,10 +1,12 @@
 // Reverse A String
 
 /*
+
 Used built-in functions in order to solve this algorithm.
 -split() method splits the string into an array of characters
 -reverse() method reverses the array
 -join() method joins all of the arrays into a string
+
 */
 
 
