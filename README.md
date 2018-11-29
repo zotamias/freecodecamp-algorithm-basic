@@ -1,5 +1,7 @@
 # Free Code Camp - Algorithm - Basic
 
+ Convert Celsius to Fahrenheit
+
  Reverse A String
  
  Factorialize A Number
