@@ -5,8 +5,6 @@
  Reverse A String
  
  Factorialize A Number
- 
- Check for Palindromes
 
  Find the Longest Word in a String
  
@@ -17,3 +15,9 @@
  Confirm the Ending
  
  Repeat a String
+
+ Truncate a String
+ 
+ Chunky Monkey
+ 
+ Mutations
